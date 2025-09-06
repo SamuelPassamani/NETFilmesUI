@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: NETFilmesUI
+owner: samuelpassamani
+package: samuelpassamani/netfilmesui-frontend@^1.0.1
+serve: /
+app_id: da_KN4IZtyUJrQv
